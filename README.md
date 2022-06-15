@@ -1,2 +1,2 @@
 # atividades
- curso pro
+ curso Prog
